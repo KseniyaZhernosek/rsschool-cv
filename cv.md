@@ -1,6 +1,6 @@
 # Kseniya Zhernosek
 
-======================
+====
 
 ## Contacts:
 
@@ -15,8 +15,8 @@ I want to learn Front-End Development in RSSchool!
 ### Code example:
 
  ` ` `
-   public void sayHello(String message){
-    sistem.out.println(message);
+public void sayHello(String message){
+    system.out.println(message);
 }
  ` ` `
 ## Work experience:
