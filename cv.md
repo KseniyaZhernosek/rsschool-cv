@@ -1,5 +1,4 @@
 # Kseniya Zhernosek
-====
 
 ## Contacts:
 
