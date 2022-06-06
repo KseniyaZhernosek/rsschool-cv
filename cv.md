@@ -1,31 +1,31 @@
-#Kseniya Zhernosek
+# Kseniya Zhernosek
 ======================
 
-###Contacts:
+## Contacts:
 
--Discord:KseniyaZhernosek#3085
--E-mail: kseniya.zhernosek@mail.ru
--Tel: +375333462750
+- Discord:KseniyaZhernosek#3085
+- E-mail: kseniya.zhernosek@mail.ru
+- Tel: +375333462750
 
-###About myself:
+### About myself:
 
 I want to learn Front-End Development in RSSchool!
 
-###Code example:
+### Code example:
 
-public void sayHello(String message){
+ ` ` `  public void sayHello(String message){
     sistem.out.println(message);
 }
-
-###Work experience:
+ ` ` `
+## Work experience:
 
 Nothing yet…
 
-###Education and courses:
+## Education and courses:
 
 UX/UI design
 JS, CSS, HTML, UX/UI design ITAcademy
 
-###Language:
+## Language:
 
 English level - A2
